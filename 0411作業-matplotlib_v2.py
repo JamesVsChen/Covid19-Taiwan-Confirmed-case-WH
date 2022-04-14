@@ -15,8 +15,8 @@ plt.rcParams['axes.unicode_minus'] = False         # 步驟二（解決座標軸
 #plt.style.use('_mpl-gallery')
 
 # Covid 19 台北、新北、桃園地區4月份每日確診人數
-# make data
 
+# make data
 date1=["4/1","4/2","4/3","4/4","4/5","4/6","4/7","4/8","4/9","4/10","4/11"] # 日期list
 
 TaipeiCase= [19,13,22,29,41, 84, 61, 74, 67,96,100]           # 台北list(每日確診人數)
